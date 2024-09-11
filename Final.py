@@ -9,7 +9,7 @@ import time
 import matplotlib.pyplot as plt
 
 # Initialize client with your API key
-api_key = '0b9f0616b9fe680ac4572e996c3994fc75789e5254b664174babd3a081459f95'
+api_key = 'Your Api Key'
 client = Together(api_key=api_key)
 
 # Function to read prompts from a CSV file
